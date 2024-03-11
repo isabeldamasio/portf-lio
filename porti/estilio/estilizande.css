@@ -1,0 +1,96 @@
+header{
+	background-color: #4f5f41; 
+}
+
+@font-face {
+    font-family: Lexend;
+    src: url(../estilio/Lexend-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "Outfit bold";
+    src: url(../estilio/Outfit-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Outfit regular";
+    src: url(../estilio/Outfit-Regular.ttf);
+}
+
+#titulocabecalho{
+    color: white;
+    font-size: 52px;
+    font-family: Lexend;
+    text-align: center;
+}   
+
+h3{
+    color: white;
+    font-family: sans-serif;
+}
+
+#margem{
+    margin: 0%;
+}
+
+#logocabecalho{
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+#qualquer{
+    background-color: #4f5f41;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    width: 100%;
+}
+
+#lado{
+    padding: 5px;
+}
+
+p{
+    font-family: Outfit regular;
+    font-size: 18px;
+}
+
+#sm{
+    font-family: "Outfit bold";
+    font-size: 34px;
+}
+
+#fdc{
+    font-family: "Outfit bold";
+    font-size: 18px;
+}
+
+#imagem{
+        width:450px;
+        height:450px;
+}
+
+#bio1{
+    display: flex;
+    padding: 20px 0 0 300px;
+}
+
+#sla{
+    width:650px;
+    height:400px; 
+    margin: 40px;
+}
+
+#teste{
+    text-align: center;
+}
+
+#bio2{
+    padding: 20px 300px 20px 300px
+}
+
+footer{
+    padding: 20px 300px 20px 300px
+}
